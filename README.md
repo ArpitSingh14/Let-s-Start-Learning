@@ -1,7 +1,1 @@
-# DAY 1
-# DAY 2
-# DAY 3
-# DAY 4
-# DAY 5
-# Day 6
-# DAY 7
+# Day 1
